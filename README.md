@@ -4,3 +4,4 @@ The project consists of a main script that makes requests to the API and handles
 
 
 main.py: The entry point for running the game. # wordbottest
+# wordbottest
